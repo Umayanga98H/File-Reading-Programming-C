@@ -1,0 +1,6 @@
+100   Novel              20    450.00
+101   Translations       55    320.00
+102   Cookery            40    150.00
+103   Science            30    850.00
+104   General_Knowledge  40    100.00
+
